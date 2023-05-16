@@ -1,0 +1,44 @@
+URL,fox -ve,fox +ve,Neutral Score,Compound,Subjectivity Scores,fox polarity
+https://www.foxnews.com/world/iran-protests-rage-streets-officials-renew-threats,0.195,0.065,0.741,-0.9976,0.000359613,-0.13
+https://www.foxnews.com/world/iran-sentences-three-more-protesters-death-waging-war-god-despite-global-criticism,0.284,0.084,0.632,-0.9969,0.001214521,-0.2
+https://www.foxnews.com/world/22000-arrested-during-iranian-protests-pardoned-government,0.215,0.098,0.687,-0.9975,0.000611328,-0.117
+https://www.foxnews.com/world/iran-protests-regime-reach-day-40-protesters-fired-security-forces,0.195,0.098,0.706,-0.9992,0.000257018,-0.097
+https://www.foxnews.com/world/iranian-students-take-streets-joining-striking-business-owners-amini-protests-hit-83rd-day,0.222,0.064,0.714,-0.9971,0.000679335,-0.158
+https://www.foxnews.com/world/at-least-24-iran-face-execution-involvement-protests,0.298,0.021,0.68,-0.9989,0.000871585,-0.277
+https://www.foxnews.com/world/iran-protests-trigger-solidarity-rallies-us-europe,0.201,0.109,0.691,-0.9976,0.000464768,-0.092
+https://www.foxnews.com/world/iran-forces-female-students-attend-hijab-counseling-months-womens-rights-protests,0.203,0.039,0.759,-0.9966,0.000625323,-0.164
+https://www.foxnews.com/world/iran-governments-protest-crackdown-kills-dozens-children-prompts-calls-removal-united-nations,0.205,0.136,0.66,-0.9898,0.000783908,-0.069
+https://www.foxnews.com/world/iran-booted-un-womens-commission-brutal-crackdown-protesters,0.23,0.029,0.741,-0.9971,0.000664103,-0.201
+https://www.foxnews.com/world/iran-executes-first-protester-nationwide-womens-rights-demonstrations-began,0.314,0.053,0.633,-0.9989,0.000955729,-0.261
+https://www.foxnews.com/world/iran-protests-death-toll-continues-climb-reporter-who-first-highlighted-aminis-death-arrested,0.24,0.103,0.657,-0.9983,0.000464141,-0.137
+https://www.foxnews.com/opinion/protests-increase-iran-may-soon-confront-power-sports,0.156,0.105,0.739,-0.9773,0.000409091,-0.051
+https://www.foxnews.com/world/iran-hangs-two-blasphemy-charges-executions-continue-spike,0.243,0.057,0.7,-0.9979,0.000763359,-0.186
+https://www.foxnews.com/world/iran-hold-public-trials-1000-protesters-accused-subversive-actions-amid-mahsa-amini-unrest,0.25,0.079,0.67,-0.9979,0.000754587,-0.171
+https://www.foxnews.com/world/fury-iran-continues-alleged-murder-woman-sparking-un-emergency-session,0.199,0.102,0.699,-0.9986,0.000321581,-0.097
+https://www.foxnews.com/world/iranian-protests-taking-off-100-cities-30-provinces-dozens-killed-widespread-arrests,0.343,0.074,0.584,-0.9993,0.00102457,-0.269
+https://www.foxnews.com/world/iran-protests-continue-experts-discuss-likelihood-regime-change,0.176,0.071,0.754,-0.9982,0.000298309,-0.105
+https://www.foxnews.com/world/iranian-women-protest-government-treatment-females-remove-hijab,0.102,0.047,0.851,-0.9614,0.000407104,-0.055
+https://www.foxnews.com/politics/biden-fails-mention-iran-sotu-lawmakers-push-measure-supporting-iranian-protesters,0.164,0.135,0.701,-0.9806,0.000396026,-0.029
+,0.22175,0.07845,0.69995,-0.993835,0.0006163,-0.1433
+urls,cnn -ve,cnn +ve,Neutral Score,Compound,Subjectivity Scores,cnn polarity
+https://www.cnn.com/2022/12/24/asia/iran-protesters-protection-underground-network-intl-hnk-dst/index.html ,0.209,0.121,0.67,-0.9981,0.000335366,-0.088
+https://www.cnn.com/2023/02/08/middleeast/iran-protests-nasrin-sotoudeh-amanpour-interview-intl/index.html ,0.219,0.127,0.654,-0.9979,0.000398159,-0.092
+https://www.cnn.com/2023/04/14/middleeast/iran-execution-report-2022-intl-hnk/index.html ,0.209,0.061,0.73,-0.9971,0.000518234,-0.148
+https://www.cnn.com/2023/04/21/europe/iran-paris-dissidents-mime-intl/index.html ,0.165,0.109,0.725,-0.997,0.000235598,-0.056
+https://www.cnn.com/2022/11/24/middleeast/iran-protests-un-human-rights-council-intl/index.html ,0.236,0.067,0.697,-0.998,0.00063125,-0.169
+https://www.cnn.com/2023/01/23/middleeast/iran-executing-way-out-of-trouble-mime-intl/index.html ,0.186,0.078,0.737,-0.9993,0.000176471,-0.108
+https://www.cnn.com/2023/04/21/europe/iran-paris-dissidents-mime-intl/index.html ,0.165,0.109,0.725,-0.997,0.000235598,-0.056
+https://edition.cnn.com/2022/12/04/middleeast/iran-hijab-law-under-review-intl/index.html,0.087,0.044,0.869,-0.9552,0.000321078,-0.043
+https://www.cnn.com/2023/04/08/middleeast/iran-cameras-unveiled-women-intl/index.html ,0.167,0.114,0.719,-0.8658,0.001898649,-0.053
+https://www.cnn.com/2023/04/02/middleeast/women-arrested-hijab-yogurt-iran-intl/index.html ,0.283,0.053,0.665,-0.9974,0.001187279,-0.23
+https://www.cnn.com/2022/11/19/middleeast/iran-unicef-children-death-intl/index.html ,0.216,0.074,0.71,-0.9985,0.000380577,-0.142
+https://www.cnn.com/2022/12/12/middleeast/iran-executes-second-protester-intl-hnk/index.html ,0.309,0.012,0.679,-0.9979,0.00127381,-0.297
+https://www.cnn.com/2022/12/14/middleeast/iran-expelled-from-un-womens-rights-body-intl/index.html ,0.136,0.079,0.786,-0.9806,0.000404135,-0.057
+https://www.cnn.com/2022/09/26/middleeast/iran-protests-explainer-mime-intl/index.html ,0.136,0.087,0.777,-0.9952,0.000199642,-0.049
+https://www.cnn.com/2023/01/11/middleeast/iran-executions-weapon-mime-intl/index.html ,0.225,0.099,0.675,-0.9996,0.000273649,-0.126
+https://www.cnn.com/2022/12/29/opinions/iran-women-cinema-film-alidoosti-protest-dabashi-ctpr/index.html ,0.074,0.131,0.795,-0.9894,0.00024463,0.057
+https://www.cnn.com/2022/09/21/middleeast/iran-mahsa-amini-death-widespread-protests-intl-hnk/index.html ,0.231,0.075,0.694,-0.9992,0.000361275,-0.156
+https://www.cnn.com/2022/09/19/middleeast/iranian-police-say-death-of-mahsa-amini-unfortunate-intl/index.html ,0.234,0.037,0.728,-0.9977,0.000669136,-0.197
+https://www.cnn.com/2022/11/01/middleeast/iran-public-trials-mahsa-amini-protests-intl/index.html ,0.237,0.071,0.692,-0.9975,0.000675439,-0.166
+https://www.cnn.com/2022/09/22/middleeast/iran-protests-mahsa-amini-father-internet-blackout-intl-hnk/index.html,0.24,0.075,0.685,-0.9994,0.000340541,-0.165
+,0.1982,0.08115,0.7206,-0.98789,0.000538026,-0.11705
